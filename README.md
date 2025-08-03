@@ -12,9 +12,10 @@ python init.py
 ```
 - .env file
 ```
+TURBOPUFFER_REGION=xxxx
 TURBOPUFFER_API_KEY=tpuf_xxxx
 VOYAGE_API_KEY=pa-xxxx
-
+STREAMING_ENDPOINT_BASE=https://xxxx
 ```
 ## Steps 
 - Steps that I had taken to work on this project are specified in detail in the [steps.md](https://github.com/AdityaUnal/profileSearch/blob/main/steps.md) file. I have also compared my different approaches there.
