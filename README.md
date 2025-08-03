@@ -27,17 +27,19 @@ STREAMING_ENDPOINT_BASE=https://xxxx
     | Tax Lawyer              | 80.67         | 7.5,8.2,8.5           | 1,1                |
     | Junior Corporate Laywer | 77            | 8.5,8.4,8.5           | 1,0.9              |
     | Radiology               | 63.3          | 5.3,8.75,8.15         | 0.8                |
-    | Doctors (MD)            | 8.5           | 8.7,8.5               | 0.8,0.2,0.7        |
+    | Doctors (MD)            | 16            | 8,7.85                | 0.8,0.2,0.7        |
     | Biology Expert          | 39.5          | 8.15,8.9,7.3          | 0.7,0.6            | 
     | Anthropology            | 71.16         | 7.35,8.65,7.85        | 0.9,0.1            |
     | Mathematics PhD         | 69.5          | 8.95,8.35             | 0.9,0.8            |
     | Quantitative Finance    | 59.67         | 6.08,8.35,8.72        | 1,0.8              |
     | Bankers                 | 80.16         | 6.9,8.8,8.35          | 1,1                |
     | Mechanical Engineers    | 69            | 8.85,8.4,8.65         | 0.8,1              |
-    | **Average**             | **61.56**     |                       |                    |
-<img width="1589" height="790" alt="image" src="https://github.com/user-attachments/assets/d069ecb9-de84-4242-8d5c-2ec1bea160db" />
+    | **Average**             | **62.36**     |                       |                    |
+<img width="1589" height="790" alt="image" src="https://github.com/user-attachments/assets/3b9862bd-fa27-4463-8e42-8030636e5a74" />
+
 
 - The following image has been normalized between 0 and 100.
-  <img width="1589" height="790" alt="image" src="https://github.com/user-attachments/assets/2753086a-b8e4-4508-bbe8-1dc755aed174" />
+  ![Uploading image.png…]()
+
 
 
