@@ -36,6 +36,7 @@ STREAMING_ENDPOINT_BASE=https://xxxx
     | Mechanical Engineers    | 69            | 8.85,8.4,8.65         | 0.8,1              |
     | **Average**             | **61.56**     |                       |                    |
 <img width="2379" height="1180" alt="image" src="https://github.com/user-attachments/assets/64d03112-878e-4777-8142-dcc3b579deea" />
-- The following image has been normalized between 0 and 1.
-  <img width="2379" height="1180" alt="image" src="https://github.com/user-attachments/assets/bbdc2730-b6e5-47d6-bb5b-0ffa4ab0f1ac" />
+- The following image has been normalized between 0 and 100.
+  <img width="1589" height="790" alt="image" src="https://github.com/user-attachments/assets/2753086a-b8e4-4508-bbe8-1dc755aed174" />
+
 
