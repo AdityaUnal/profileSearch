@@ -1,7 +1,7 @@
 # Profile Searcher
 
-- I have created a hybrid search retrieval system to find linkedIn profiles
-- It filters based on hard-criterias(must haves) and soft-criterias(good to have)
+- I have created a hybrid search retrieval system to find linkedIn profiles from turbopuffer Database.
+- It filters based on hard-criterias(must haves) and soft-criterias(good to have).
 
 ## Getting Started
 - Type the following commands in the terminal.
