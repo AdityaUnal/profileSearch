@@ -17,7 +17,7 @@ VOYAGE_API_KEY=pa-xxxx
 
 ```
 ## Steps 
-- In detail steps that I had taken to work on this project are specified the [steps.md](https://github.com/AdityaUnal/profileSearch/blob/main/steps.md) file. I have also compared my different approaches there.
+- Steps that I had taken to work on this project are specified in detail in the [steps.md](https://github.com/AdityaUnal/profileSearch/blob/main/steps.md) file. I have also compared my different approaches there.
 - Additionally, the iterations that I tried are in the jobs_1 and jobs_2 jupyter notebooks.
 ## Result
 - I got the following results for the .yml files.
@@ -33,6 +33,7 @@ VOYAGE_API_KEY=pa-xxxx
     | Quantitative Finance    | 59.67         | 6.08,8.35,8.72        | 1,0.8              |
     | Bankers                 | 80.16         | 6.9,8.8,8.35          | 1,1                |
     | Mechanical Engineers    | 69            | 8.85,8.4,8.65         | 0.8,1              |
+    | **Average**             | **61.56**     |                       |                    |
 <img width="2379" height="1180" alt="image" src="https://github.com/user-attachments/assets/64d03112-878e-4777-8142-dcc3b579deea" />
 - The following image has been normalized between 0 and 1.
   <img width="2379" height="1180" alt="image" src="https://github.com/user-attachments/assets/bbdc2730-b6e5-47d6-bb5b-0ffa4ab0f1ac" />
