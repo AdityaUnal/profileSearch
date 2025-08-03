@@ -8,6 +8,7 @@
 ```
 git clone https://github.com/AdityaUnal/profileSearch.git
 pip install -r requirements.txt
+python init.py
 ```
 - .env file
 ```
