@@ -39,7 +39,8 @@ STREAMING_ENDPOINT_BASE=https://xxxx
 
 
 - The following image has been normalized between 0 and 100.
-  <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/dcfe217a-f438-4952-a5ab-31533a278148" />
+  <img width="1589" height="790" alt="image" src="https://github.com/user-attachments/assets/cf8591e7-02f2-4be8-8d6e-9fcd646d86bb" />
+
 
 
 
