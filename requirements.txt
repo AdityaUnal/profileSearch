@@ -1,6 +1,8 @@
-pymongo
-spacy
-turbopuffer
-voyageai
 
-# python -m spacy download en_core_web_trf
+spacy
+voyageai
+nltk
+scikit-learn
+
+numpy
+scipy
