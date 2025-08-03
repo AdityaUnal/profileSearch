@@ -41,7 +41,8 @@ The data consists of the following :
 
 ## Step 3 - Possible Retrieval Strategies
 - First thing I tried was using BM25 algo for hard criterias. The top 100 that match these criterias would then go onto for top 10 ANN search for soft criteria.
-    - These are the results across the different criterias : 
+    - These are the results across the different criterias :
+      
     | Title                   | Average Score  | Average Soft Score     | Average Hard Score |
     |-------------------------|---------------|-----------------------|--------------------|
     | Tax Lawyer              | 78            | 8.1,8.1,7.2           | 1,1                |
@@ -63,6 +64,7 @@ The data consists of the following :
 - I did a few changes in my next trial.
     - Use spacy to identify the location of the university.The level of education can be checked by something similiar.
     - Used some hardcoded adjectives for description of work and education.
+      
     | Title                   | Average Score | Average Soft Score    | Average Hard Score |
     |-------------------------|---------------|-----------------------|--------------------|
     | Tax Lawyer              | 80.67         | 7.5,8.2,8.5           | 1,1                |
