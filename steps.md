@@ -80,6 +80,7 @@ The data consists of the following :
     - The hard score has significantly increased with only two criterias matching **less than 0.5** .
 - I also tried giving some type of score to the BM25 retrieval so that the hard criteria has more say in the final ranking, but results were worse than both of these.
 ### Comparisions 
+- <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/98dbb468-1936-4e43-be36-ca0451b2511f" />
 - <img width="818" height="374" alt="image" src="https://github.com/user-attachments/assets/d7bdf475-52e3-4b1a-8ef7-a4beae79bfb9" />
 - <img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/bc4df31a-417b-4ec0-8fba-3b7c3105f293" />
 
