@@ -29,14 +29,14 @@ logger = logging.getLogger(__name__)
 
 
 # --------- Config --------- #
-TURBOPUFFER_REGION = "aws-us-west-2"
+TURBOPUFFER_REGION = os.getenv("TURBOPUFFER_REGION")
 TPUF_NAMESPACE_NAME = "aditya_unal"
 TURBOPUFFER_API_KEY = os.getenv("TURBOPUFFER_API_KEY")
 VOYAGE_API_KEY = os.getenv("VOYAGE_API_KEY")
 TOTAL_BATCHES = 39
 MAX_RETRIES = 10
 NUM_THREADS = 5
-STREAMING_ENDPOINT_BASE = "https://mercor-dev--search-eng-interview-documents.modal.run/stream_documents"
+STREAMING_ENDPOINT_BASE = os.getenv("STREAMING_ENDPOINT_BASE")
 # Initialize Turbopuffer client
 tpuf = turbopuffer.Turbopuffer(
     api_key=TURBOPUFFER_API_KEY,
