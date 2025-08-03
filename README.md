@@ -39,7 +39,8 @@ STREAMING_ENDPOINT_BASE=https://xxxx
 
 
 - The following image has been normalized between 0 and 100.
-  ![Uploading image.png…]()
+  <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/dcfe217a-f438-4952-a5ab-31533a278148" />
+
 
 
 
