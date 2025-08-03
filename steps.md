@@ -79,5 +79,9 @@ The data consists of the following :
     | Mechanical Engineers    | 69            | 8.85,8.4,8.65         | 0.8,1              |
     - The hard score has significantly increased with only two criterias matching **less than 0.5** .
 - I also tried giving some type of score to the BM25 retrieval so that the hard criteria has more say in the final ranking, but results were worse than both of these.
+### Comparisions 
+- Dataset
+<img width="2379" height="980" alt="image" src="https://github.com/user-attachments/assets/d4bdd535-ae1e-4de9-9859-5dede2bd5ff3" />
+
 ## Embedding Strategies
 - I used VoyageAI to create embeddings of soft criteria.
