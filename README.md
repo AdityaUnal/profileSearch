@@ -17,7 +17,7 @@ VOYAGE_API_KEY=pa-xxxx
 
 ```
 ## Steps 
-- In detail steps that I had taken to work on this project are specified the [steps.md](https://github.com/AdityaUnal/profileSearch/blob/main/steps.md) file.
+- In detail steps that I had taken to work on this project are specified the [steps.md](https://github.com/AdityaUnal/profileSearch/blob/main/steps.md) file. I have also compared my different approaches there.
 - Additionally, the iterations that I tried are in the jobs_1 and jobs_2 jupyter notebooks.
 ## Result
 - I got the following results for the .yml files.
