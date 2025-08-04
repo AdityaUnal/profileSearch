@@ -3,6 +3,6 @@ spacy
 voyageai
 nltk
 scikit-learn
-
+turbopuffer
 numpy
 scipy
