@@ -34,10 +34,10 @@ The data consists of the following :
 - headline : string object.
 - profilepic : string object.
 - Indexed the rerank_summary as it helps in full_text search. Added a few other keys in case I need to filter the metadata.
-## Step 2 - Deploying and transferring to the Vector Store
+## Step 2 - Deploying and transferring to the Object Store
 
 - I am using Turbopuffer as it stores both vector index and inverted index. 
-- The vector store is deployed on cloud.
+- The object store is deployed on cloud.
 
 ## Step 3 - Possible Retrieval Strategies
 - First thing I tried was using BM25 algo for hard criterias. The top 100 that match these criterias would then go onto for top 10 ANN search for soft criteria.
