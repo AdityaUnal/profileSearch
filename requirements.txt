@@ -4,5 +4,6 @@ voyageai
 nltk
 scikit-learn
 turbopuffer
+dotenv
 numpy
 scipy
