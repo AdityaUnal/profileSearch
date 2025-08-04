@@ -1,4 +1,4 @@
-
+pymongo
 spacy
 voyageai
 nltk
